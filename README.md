@@ -1,4 +1,4 @@
-Hi there, I'm LPolaveni 👋
+Hi there, I'm Lakshman Polaveni 👋
 I'm a dedicated Software Quality Assurance and Test Automation professional with 2.7 years of hands-on experience. I specialize in building robust, scalable test automation frameworks and ensuring high-quality software delivery through both manual and automated testing.
 
 👀 I’m interested in:
